@@ -15,7 +15,7 @@ Our OpenGL framework is based on [Learn OpenGL](http://www.learnopengl.com/). An
 * `SOIL` for screen capturing;
 * `FFmpeg` for converting screenshots to video.
 
-You can see our [project report](https://github.com/Shane-Xie-He/OceanSurface/raw/master/OceanSurface.pdf) for detailed explanation of the algorithms of our project.
+You can see our [project report](/OceanSurface.pdf) for detailed explanation of the algorithms of our project.
 
 The ocean wave simulation algorithm we referred to is also described in [*Simulating Ocean Water*](http://graphics.ucsd.edu/courses/rendering/2005/jdewall/tessendorf.pdf).
 
@@ -25,8 +25,8 @@ We made two videos for [a wavy surface](https://youtu.be/U2fkrXxvPRY) and [a cal
 
 Here are some screenshots:
 
-![](https://github.com/Shane-Xie-He/OceanSurface/raw/master/screenshots/screenshot1.jpg)
+![](/screenshots/screenshot1.jpg)
 
-![](https://github.com/Shane-Xie-He/OceanSurface/raw/master/screenshots/screenshot2.jpg)
+![](/screenshots/screenshot2.jpg)
 
-![](https://github.com/Shane-Xie-He/OceanSurface/raw/master/screenshots/screenshot3.jpg)
+![](/screenshots/screenshot3.jpg)
